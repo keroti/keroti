@@ -1,3 +1,5 @@
+[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/385/615/desktop-wallpaper-programming-coding-minimalist.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Peter Keroti</h1>
 <h3 align="center">I'm a Software Developer from Nairobi, Kenya.</h3>
 
