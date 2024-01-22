@@ -18,6 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keroti&" alt="keroti" /></p>
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 - 🔭 I’m currently working on [Shutterlink App](https://github.com/keroti/shutterlinkProj)
 
 - 🌱 I’m currently learning **Azure Fundamentals**
