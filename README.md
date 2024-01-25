@@ -1,13 +1,13 @@
 [![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/385/615/desktop-wallpaper-programming-coding-minimalist.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Peter Keroti</h1>
-<h3 align="center">I'm a Software Developer from Nairobi, Kenya.</h3>
+<h3 align="left">I'm a Software Developer from Nairobi, Kenya.</h3>
 
 <p align="left"> <a href="https://twitter.com/peter_kerotii" target="blank"><img src="https://img.shields.io/twitter/follow/peter_kerotii?logo=twitter&style=for-the-badge" alt="peter_kerotii" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/peter_kerotii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peter_kerotii" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/peter-keroti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-keroti" height="30" width="40" /></a>
 <a href="https://fb.com/peter.kigan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter.kigan.7" height="30" width="40" /></a>
 <a href="https://instagram.com/keroti__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keroti__" height="30" width="40" /></a>
